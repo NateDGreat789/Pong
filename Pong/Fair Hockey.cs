@@ -287,9 +287,6 @@ namespace Pong
                 winlabel.Text = "Player 2 Wins!!";
             }
 
-            //get ball out of bounds
-            
-
             Refresh();
         }
     }
